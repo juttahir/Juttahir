@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, mundo! 👋
 
 <!--
 **juttahir/Juttahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![dragonlich](https://user-images.githubusercontent.com/56979245/151617003-4237c72c-a4e3-4a6a-95e4-c450a09b594b.gif)
