@@ -13,3 +13,7 @@ Um pouco sobre mim:
 <a href="https://web.facebook.com/juttahir.moraesdasilva?_rdc=1&_rdr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 ![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
+
+<div style="display: inline_block">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
