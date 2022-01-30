@@ -17,8 +17,8 @@ Um pouco sobre mim:
 
 Principais Skils:
 
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/ios-glyphs/30/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
@@ -42,6 +42,7 @@ Principais Skils:
   
   Sistemas operacionais:
   
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
