@@ -28,8 +28,8 @@ Principais Skils:
   
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/officexs/16/000000/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/officel/16/000000/react.png"/>
   
   Ferramentas e conhecimentos adicionais:
   
