@@ -16,6 +16,7 @@ Um pouco sobre mim:
 <a href="https://web.facebook.com/juttahir.moraesdasilva?_rdc=1&_rdr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 Principais Skils:
+  
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
@@ -23,13 +24,15 @@ Principais Skils:
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   
-  Conhecimentos em:  
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  Conhecimentos em:
+  
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>z
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/>
   
-  Ferramentas e conhecimentos adicionais:  
+  Ferramentas e conhecimentos adicionais:
+  
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
@@ -37,7 +40,8 @@ Principais Skils:
   <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
   
-  Sistemas operacionais:  
+  Sistemas operacionais:
+  
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
