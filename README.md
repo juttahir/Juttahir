@@ -2,6 +2,7 @@
 
 <div display="inline-block">
   
+  ![git](https://user-images.githubusercontent.com/56979245/151720780-878f3a06-1bdf-48ca-98cf-b8ee77786ea5.gif)
   
 Um pouco mais sobre mim:
 
