@@ -18,3 +18,30 @@ Um pouco sobre mim:
 Principais Skils:
 
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/ios-glyphs/30/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+  <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
+  
+  Conhecimentos em:
+  
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/officexs/16/000000/react.png"/>
+  
+  Ferramentas e conhecimentos adicionais:
+  
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+  
+  Sistemas operacionais:
+  
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
