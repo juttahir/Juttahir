@@ -1,10 +1,8 @@
-
+### --------------------Olá, mundo! 👋--------------------
 ![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
 
 <div style="display: inline_block">
   
-### --------------------Olá, mundo! 👋--------------------
-
 Um pouco sobre mim:
 
 - 🔭 No momento trabalho na BRB Solutions
