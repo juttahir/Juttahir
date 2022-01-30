@@ -1,6 +1,8 @@
 ### --------------------Olá, mundo! 👋--------------------
 ![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
 
+<div display="inline-block">
+
 Principais Skils:
   
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
