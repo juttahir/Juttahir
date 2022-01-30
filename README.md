@@ -29,7 +29,7 @@ Principais Skils:
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img src="https://img.icons8.com/officel/48/000000/react.png"/>
+  <img src="https://img.icons8.com/office/48/000000/react.png"/>
   
   Ferramentas e conhecimentos adicionais:
   
