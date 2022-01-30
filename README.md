@@ -2,7 +2,9 @@
 
 <div display="inline-block">
   
-  ![git](https://user-images.githubusercontent.com/56979245/151720780-878f3a06-1bdf-48ca-98cf-b8ee77786ea5.gif)
+  <!--![git](https://user-images.githubusercontent.com/56979245/151720780-878f3a06-1bdf-48ca-98cf-b8ee77786ea5.gif)-->
+  ![daftpunktocat-guy](https://user-images.githubusercontent.com/56979245/151720843-38c2aa26-8c6d-436d-9e60-ad43d5b3c68e.gif)
+
   
 Um pouco mais sobre mim:
 
