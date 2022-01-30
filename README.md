@@ -2,7 +2,9 @@
 
 <div display="inline-block">
 
-Principais Skils:
+<p float="right">
+  
+  Principais Skils:
   
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
@@ -33,9 +35,7 @@ Principais Skils:
   <img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
-  
-![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
+  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>  
   
 Um pouco mais sobre mim:
 
@@ -48,3 +48,4 @@ Um pouco mais sobre mim:
 <a href="https://api.whatsapp.com/send/?phone=5511986636210&text&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://br.linkedin.com/in/juttahir-da-silva-bb06409b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://web.facebook.com/juttahir.moraesdasilva?_rdc=1&_rdr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  </p>
