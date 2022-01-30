@@ -33,7 +33,7 @@ Um pouco mais sobre mim:
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/>
-  <img src="https://img.icons8.com/office/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/nolan/48/mysql.png"/>
   
   Sistemas operacionais:
   
