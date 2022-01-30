@@ -21,6 +21,13 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/>
   
+  Sistemas operacionais:
+  
+  <img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>  
+  
   Ferramentas e conhecimentos adicionais:
   
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
@@ -29,13 +36,6 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
-  
-  Sistemas operacionais:
-  
-  <img src="https://img.icons8.com/color/48/000000/windows-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>  
   
 Um pouco mais sobre mim:
 
