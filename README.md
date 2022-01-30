@@ -1,5 +1,4 @@
 ### --------------------Olá, mundo! 👋--------------------
-![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
 
 <div display="inline-block">
 
@@ -35,7 +34,8 @@ Principais Skils:
   <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
-
+  
+![dragonlich](https://user-images.githubusercontent.com/56979245/151618716-19f70baa-cc58-4fcc-8bb1-aa24a7205b64.gif)
   
 Um pouco mais sobre mim:
 
