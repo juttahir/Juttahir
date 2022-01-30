@@ -27,15 +27,12 @@ Um pouco mais sobre mim:
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   
-  Conhecimentos em:
+  Noções em:
   
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>z
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  
-  Interesse em:
-  
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>  
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img src="https://img.icons8.com/office/48/000000/react.png"/>  
+  <img src="https://img.icons8.com/office/48/000000/react.png"/>
   
   Sistemas operacionais:
   
