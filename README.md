@@ -8,7 +8,7 @@ Um pouco mais sobre mim:
 <div display="inline-block">
 
 - 🔭 No momento trabalho na BRB Solutions
-- 🌱 Estudando JS, C#, SQL Server, Docker, AWS, React e Angular
+- 🌱 Estudando JS, C#, SQL Server, Docker, AWS, e Angular
 - 👯 Busco sempre aprender e explorar ao máximo as oportunidades
 - ⚡ Hobby em 3D, automobilismo e IOT
 - 🕛 Trabalhando desde o meio dia, até a meia noite
