@@ -10,7 +10,7 @@ Um pouco mais sobre mim:
 - 🔭 Desenvolvedor Back-end na Privacy
 - 🌱 Estudante de Engenharia de Computação pela FIAP
 - 👯 Buscando sempre evoluir com as oportunidades que a providência me colocou.
-- ⚡ Nos momentos livre, além de estudar tenho por hobbys o 3D, automobilismo e IOT
+- ⚡ Nos momentos livres além de estudar, tenho por hobbys o 3D, automobilismo virtual e passear com a Kim (minha doguinha haha).
 - 🕛 Trabalhando desde o meio dia, até a meia noite
 - 📫 Contate-me:
 <a href="https://api.whatsapp.com/send/?phone=5511986636210&text&app_absent=0"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
