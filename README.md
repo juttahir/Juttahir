@@ -26,6 +26,8 @@ Um pouco mais sobre mim:
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png"/>
   
   <h3>Noções em:</h3>
   
@@ -34,6 +36,7 @@ Um pouco mais sobre mim:
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <!--<img src="https://img.icons8.com/office/48/000000/react.png"/>-->
   <img src="https://img.icons8.com/nolan/48/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   
   <h3>Sistemas operacionais:</h3>
   
