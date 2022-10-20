@@ -21,6 +21,7 @@ Um pouco mais sobre mim:
   
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -34,7 +35,6 @@ Um pouco mais sobre mim:
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/office/48/000000/react.png"/>
   <img src="https://img.icons8.com/nolan/48/mysql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
