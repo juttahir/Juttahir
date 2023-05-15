@@ -7,7 +7,7 @@ Um pouco mais sobre mim:
 
 <div display="inline-block">
 
-- 🔭 Desenvolvedor Back-end na Privacy
+- 🔭 Desenvolvedor Full Stack
 - 🌱 Estudante de Engenharia de Computação pela FIAP
 - 👯 Buscando sempre evoluir com as oportunidades que a providência me colocou.
 - ⚡ Nos momentos livres além de estudar, tenho por hobbys o 3D, automobilismo virtual e passear com a Kim (minha doguinha haha).
