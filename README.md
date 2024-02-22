@@ -7,10 +7,10 @@ Um pouco mais sobre mim:
 
 <div display="inline-block">
 
-- 🔭 Desenvolvedor Full Stack
+- 🔭 Desenvolvedor Full Stack e engenheiro computacional
 - 🌱 Estudante de Engenharia de Computação pela FIAP
 - 👯 Buscando sempre evoluir com as oportunidades que a providência me colocou.
-- ⚡ Nos momentos livres além de estudar, tenho por hobbys o 3D, automobilismo virtual e passear com a Kim (minha doguinha haha).
+- ⚡ Nos momentos livres além de estudar, tenho por hobbys o 3D, automobilismo virtual, criação e desenvolvimento de placas de circuito.
 - 🕛 Trabalhando desde o meio dia, até a meia noite
 - 📫 Contate-me:
 <a href="https://api.whatsapp.com/send/?phone=5511986636210&text&app_absent=0" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
